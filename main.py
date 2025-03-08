@@ -6,8 +6,8 @@ def print_banner():
     banner = """
     =======================================
          WELCOME TO RANDOM JOKE GENERATOR  
-         MADE BY UNKNOWN PYTHON DEVELOPER
-         INSTAGRAM : bloody_._prasoon
+         MADE BY PRASOON
+         GITHUB - PrasoonAgarwal0
     =======================================
     """
     print(banner)
